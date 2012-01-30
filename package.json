@@ -1,0 +1,23 @@
+{
+	"name": "djeo-proj4js",
+	"author": "Vladimir Elistratov",
+	"description": "A wrapper of Proj4js library for the djeo library",
+	"licenses": [
+		{
+			"type": "LGPLv3",
+			"url": "http://www.gnu.org/licenses/lgpl.html"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vvoovv/djeo-proj4js"
+	},
+	"bugs": "https://github.com/vvoovv/djeo-proj4js/issues",
+	"dependencies": {
+		"djeo": "0.1.0"
+	},
+	"keywords": ["djeo", "geo"],
+	"homepage": "http://djeo.org",
+	"main": "./main",
+	"icon": "http://djeo.github.com/djeo25.png"
+}
